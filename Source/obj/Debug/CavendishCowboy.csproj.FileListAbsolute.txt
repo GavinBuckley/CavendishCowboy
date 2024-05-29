@@ -1,0 +1,15 @@
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\bin\Debug\CavendishCowboy.dll
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\bin\Debug\CavendishCowboy.pdb
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\bin\Debug\Assembly-CSharp.dll
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\bin\Debug\BepInEx.dll
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\bin\Debug\UnityEngine.dll
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\obj\Debug\CavendishCowboy.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\obj\Debug\CavendishCowboy.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\obj\Debug\CavendishCowboy.csproj.CopyComplete
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\obj\Debug\CavendishCowboy.dll
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\obj\Debug\CavendishCowboy.pdb
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\bin\Debug\netstandard.dll
+C:\Users\gavin\Documents\Coding\CavendishCowboy\CavendishCowboy\bin\Debug\UnityEngine.SharedInternalsModule.dll
