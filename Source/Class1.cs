@@ -18,7 +18,7 @@ namespace CavendishCowboy
             {
                 CallResetTimer();
                 ResetLevel();
-                Logger.LogInfo("Reset Succsessfully!");
+                Logger.LogInfo("Reset Successfully!");
             }
         }
 
